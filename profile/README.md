@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Docs](https://img.shields.io/badge/docs-skail.gitbook.io-blue)](https://skail.gitbook.io/skail-docs/)
-[![Site](https://img.shields.io/badge/site-skailhq.com-black)](https://skail.dev)
+[![Site](https://img.shields.io/badge/site-skail.dev-black)](https://skail.dev)
 
 **Plataforma de execução durável.** Tolerância a falhas sem PhD em sistemas distribuídos.
 
